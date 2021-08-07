@@ -9,7 +9,7 @@
 using namespace std;
 
 //　↓ここで関数を宣言し呼び出す。（C++ main関数は一度しか呼び出せないよ！）
-int Insertion_Sort();
+void Insertion_Sort();
 
 int main() {
     // insert code here...

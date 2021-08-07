@@ -68,9 +68,17 @@
 		B21B441026BE5AC00073F23C /* Aizu_Online_Judge */ = {
 			isa = PBXGroup;
 			children = (
-				B21B440C26BE348F0073F23C /* Insertion_Sort.cpp */,
+				B21B441426BE880B0073F23C /* 初等的整列(3章) */,
 			);
 			path = Aizu_Online_Judge;
+			sourceTree = "<group>";
+		};
+		B21B441426BE880B0073F23C /* 初等的整列(3章) */ = {
+			isa = PBXGroup;
+			children = (
+				B21B440C26BE348F0073F23C /* Insertion_Sort.cpp */,
+			);
+			path = "初等的整列(3章)";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
