@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		B21B440126BE309A0073F23C /* main.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B21B440026BE309A0073F23C /* main.cpp */; };
 		B21B440D26BE348F0073F23C /* Insertion_Sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B21B440C26BE348F0073F23C /* Insertion_Sort.cpp */; };
+		B21B441626BFEBB30073F23C /* Bubble_Sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B21B441526BFEBB20073F23C /* Bubble_Sort.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		B21B43FD26BE309A0073F23C /* algorithm_and_data_structure */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = algorithm_and_data_structure; sourceTree = BUILT_PRODUCTS_DIR; };
 		B21B440026BE309A0073F23C /* main.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = main.cpp; sourceTree = "<group>"; };
 		B21B440C26BE348F0073F23C /* Insertion_Sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Insertion_Sort.cpp; sourceTree = "<group>"; };
+		B21B441526BFEBB20073F23C /* Bubble_Sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Bubble_Sort.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -77,6 +79,7 @@
 			isa = PBXGroup;
 			children = (
 				B21B440C26BE348F0073F23C /* Insertion_Sort.cpp */,
+				B21B441526BFEBB20073F23C /* Bubble_Sort.cpp */,
 			);
 			path = "初等的整列(3章)";
 			sourceTree = "<group>";
@@ -139,6 +142,7 @@
 			files = (
 				B21B440126BE309A0073F23C /* main.cpp in Sources */,
 				B21B440D26BE348F0073F23C /* Insertion_Sort.cpp in Sources */,
+				B21B441626BFEBB30073F23C /* Bubble_Sort.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

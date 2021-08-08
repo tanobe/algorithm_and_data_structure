@@ -4,7 +4,6 @@
 //
 //  Created by 田野辺開 on 2021/08/07.
 //
-
 //挿入ソート
 //
 #include<iostream>
