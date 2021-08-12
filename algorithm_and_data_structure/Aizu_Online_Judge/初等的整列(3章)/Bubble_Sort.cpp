@@ -1,6 +1,6 @@
 //
 //  Bubble_Sort.cpp
-//  algorithm_and_data_structure
+//  algorithm_and_data_structur
 //
 //  Created by 田野辺開 on 2021/08/08.
 //
