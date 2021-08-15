@@ -9,10 +9,10 @@
 using namespace std;
 
 //　↓ここで関数を宣言し呼び出す。（C++ main関数は一度しか呼び出せないよ！）
-void Selection_Sort();
+void Stable_Sort();
 
 int main() {
     // insert code here...
-    Selection_Sort();
+    Stable_Sort();
     return 0;
 }

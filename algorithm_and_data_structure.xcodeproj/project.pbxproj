@@ -11,6 +11,7 @@
 		B21B440D26BE348F0073F23C /* Insertion_Sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B21B440C26BE348F0073F23C /* Insertion_Sort.cpp */; };
 		B21B441626BFEBB30073F23C /* Bubble_Sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B21B441526BFEBB20073F23C /* Bubble_Sort.cpp */; };
 		B2E1DC4226C3B33300EAE140 /* Selection_Sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2E1DC4126C3B33300EAE140 /* Selection_Sort.cpp */; };
+		B2E1DC4426C53BB700EAE140 /* Stable_Sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2E1DC4326C53BB700EAE140 /* Stable_Sort.cpp */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -31,6 +32,7 @@
 		B21B440C26BE348F0073F23C /* Insertion_Sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Insertion_Sort.cpp; sourceTree = "<group>"; };
 		B21B441526BFEBB20073F23C /* Bubble_Sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Bubble_Sort.cpp; sourceTree = "<group>"; };
 		B2E1DC4126C3B33300EAE140 /* Selection_Sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Selection_Sort.cpp; sourceTree = "<group>"; };
+		B2E1DC4326C53BB700EAE140 /* Stable_Sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Stable_Sort.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -83,6 +85,7 @@
 				B21B440C26BE348F0073F23C /* Insertion_Sort.cpp */,
 				B21B441526BFEBB20073F23C /* Bubble_Sort.cpp */,
 				B2E1DC4126C3B33300EAE140 /* Selection_Sort.cpp */,
+				B2E1DC4326C53BB700EAE140 /* Stable_Sort.cpp */,
 			);
 			path = "初等的整列(3章)";
 			sourceTree = "<group>";
@@ -146,6 +149,7 @@
 				B2E1DC4226C3B33300EAE140 /* Selection_Sort.cpp in Sources */,
 				B21B440126BE309A0073F23C /* main.cpp in Sources */,
 				B21B440D26BE348F0073F23C /* Insertion_Sort.cpp in Sources */,
+				B2E1DC4426C53BB700EAE140 /* Stable_Sort.cpp in Sources */,
 				B21B441626BFEBB30073F23C /* Bubble_Sort.cpp in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
