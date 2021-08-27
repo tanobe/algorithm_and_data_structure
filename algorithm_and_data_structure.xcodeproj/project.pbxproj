@@ -14,6 +14,7 @@
 		B2AFAB5B26D1050C004BE07B /* Stack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2AFAB5A26D1050C004BE07B /* Stack.cpp */; };
 		B2AFAB5D26D3CD6F004BE07B /* Queue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2AFAB5C26D3CD6F004BE07B /* Queue.cpp */; };
 		B2AFAB5F26D8CD57004BE07B /* Doubly_Linked_List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2AFAB5E26D8CD57004BE07B /* Doubly_Linked_List.cpp */; };
+		B2AFAB6226D8CE14004BE07B /* Linear_Search.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2AFAB6126D8CE14004BE07B /* Linear_Search.cpp */; };
 		B2E1DC4226C3B33300EAE140 /* Selection_Sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2E1DC4126C3B33300EAE140 /* Selection_Sort.cpp */; };
 		B2E1DC4426C53BB700EAE140 /* Stable_Sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2E1DC4326C53BB700EAE140 /* Stable_Sort.cpp */; };
 /* End PBXBuildFile section */
@@ -39,6 +40,7 @@
 		B2AFAB5A26D1050C004BE07B /* Stack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Stack.cpp; sourceTree = "<group>"; };
 		B2AFAB5C26D3CD6F004BE07B /* Queue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Queue.cpp; sourceTree = "<group>"; };
 		B2AFAB5E26D8CD57004BE07B /* Doubly_Linked_List.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Doubly_Linked_List.cpp; sourceTree = "<group>"; };
+		B2AFAB6126D8CE14004BE07B /* Linear_Search.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Linear_Search.cpp; sourceTree = "<group>"; };
 		B2E1DC4126C3B33300EAE140 /* Selection_Sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Selection_Sort.cpp; sourceTree = "<group>"; };
 		B2E1DC4326C53BB700EAE140 /* Stable_Sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Stable_Sort.cpp; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -84,6 +86,7 @@
 			children = (
 				B21B441426BE880B0073F23C /* 初等的整列(3章) */,
 				B2AFAB5926D104C0004BE07B /* データ構造(4章) */,
+				B2AFAB6026D8CDBC004BE07B /* 探索(5章) */,
 			);
 			path = Aizu_Online_Judge;
 			sourceTree = "<group>";
@@ -109,6 +112,14 @@
 			);
 			name = "データ構造(4章)";
 			path = "データ構造()";
+			sourceTree = "<group>";
+		};
+		B2AFAB6026D8CDBC004BE07B /* 探索(5章) */ = {
+			isa = PBXGroup;
+			children = (
+				B2AFAB6126D8CE14004BE07B /* Linear_Search.cpp */,
+			);
+			path = "探索(5章)";
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -169,6 +180,7 @@
 			files = (
 				B2E1DC4226C3B33300EAE140 /* Selection_Sort.cpp in Sources */,
 				B2AFAB5F26D8CD57004BE07B /* Doubly_Linked_List.cpp in Sources */,
+				B2AFAB6226D8CE14004BE07B /* Linear_Search.cpp in Sources */,
 				B21B440126BE309A0073F23C /* main.cpp in Sources */,
 				B21B440D26BE348F0073F23C /* Insertion_Sort.cpp in Sources */,
 				B2E1DC4426C53BB700EAE140 /* Stable_Sort.cpp in Sources */,
