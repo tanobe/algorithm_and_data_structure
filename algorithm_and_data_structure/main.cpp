@@ -9,11 +9,11 @@
 using namespace std;
 
 //　↓ここで関数を宣言し呼び出す。（C++ main関数は一度しか呼び出せないよ！）
-void Stack();
+void Queue();
 
 int main() {
     // insert code here...
-    Stack();
+    Queue();
     return 0;
 }
 
