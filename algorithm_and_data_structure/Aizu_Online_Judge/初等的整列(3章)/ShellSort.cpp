@@ -5,4 +5,5 @@
 //  Created by 田野辺開 on 2021/08/20.
 //
 
-#include <stdio.h>
+#include<iostream>
+using namespace std;
