@@ -16,4 +16,3 @@ int main() {
     Binary_Search();
     return 0;
 }
-

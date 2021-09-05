@@ -42,6 +42,6 @@ void Binary_Search () {
             count_sum ++;
         }
     }
-    
+
     cout << count_sum << endl;
 }
