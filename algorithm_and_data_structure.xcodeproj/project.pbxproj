@@ -12,6 +12,7 @@
 		B21B441626BFEBB30073F23C /* Bubble_Sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B21B441526BFEBB20073F23C /* Bubble_Sort.cpp */; };
 		B23A1F0C26E4856B00088FA0 /* Hash_Sort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B23A1F0B26E4856B00088FA0 /* Hash_Sort.cpp */; };
 		B278C5BD26CF8ED200F39F53 /* ShellSort.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B278C5BC26CF8ED200F39F53 /* ShellSort.cpp */; };
+		B2A0874A2727896C003CE536 /* Test.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2A087492727896C003CE536 /* Test.cpp */; };
 		B2AFAB5B26D1050C004BE07B /* Stack.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2AFAB5A26D1050C004BE07B /* Stack.cpp */; };
 		B2AFAB5D26D3CD6F004BE07B /* Queue.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2AFAB5C26D3CD6F004BE07B /* Queue.cpp */; };
 		B2AFAB5F26D8CD57004BE07B /* Doubly_Linked_List.cpp in Sources */ = {isa = PBXBuildFile; fileRef = B2AFAB5E26D8CD57004BE07B /* Doubly_Linked_List.cpp */; };
@@ -40,6 +41,7 @@
 		B21B441526BFEBB20073F23C /* Bubble_Sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Bubble_Sort.cpp; sourceTree = "<group>"; };
 		B23A1F0B26E4856B00088FA0 /* Hash_Sort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Hash_Sort.cpp; sourceTree = "<group>"; };
 		B278C5BC26CF8ED200F39F53 /* ShellSort.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = ShellSort.cpp; sourceTree = "<group>"; };
+		B2A087492727896C003CE536 /* Test.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Test.cpp; sourceTree = "<group>"; };
 		B2AFAB5A26D1050C004BE07B /* Stack.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Stack.cpp; sourceTree = "<group>"; };
 		B2AFAB5C26D3CD6F004BE07B /* Queue.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Queue.cpp; sourceTree = "<group>"; };
 		B2AFAB5E26D8CD57004BE07B /* Doubly_Linked_List.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = Doubly_Linked_List.cpp; sourceTree = "<group>"; };
@@ -124,6 +126,7 @@
 				B2AFAB6126D8CE14004BE07B /* Linear_Search.cpp */,
 				B2CBAD6E26E0B936005E0988 /* Binary_Search.cpp */,
 				B23A1F0B26E4856B00088FA0 /* Hash_Sort.cpp */,
+				B2A087492727896C003CE536 /* Test.cpp */,
 			);
 			path = "探索(5章)";
 			sourceTree = "<group>";
@@ -187,6 +190,7 @@
 				B2E1DC4226C3B33300EAE140 /* Selection_Sort.cpp in Sources */,
 				B23A1F0C26E4856B00088FA0 /* Hash_Sort.cpp in Sources */,
 				B2AFAB5F26D8CD57004BE07B /* Doubly_Linked_List.cpp in Sources */,
+				B2A0874A2727896C003CE536 /* Test.cpp in Sources */,
 				B2AFAB6226D8CE14004BE07B /* Linear_Search.cpp in Sources */,
 				B21B440126BE309A0073F23C /* main.cpp in Sources */,
 				B21B440D26BE348F0073F23C /* Insertion_Sort.cpp in Sources */,

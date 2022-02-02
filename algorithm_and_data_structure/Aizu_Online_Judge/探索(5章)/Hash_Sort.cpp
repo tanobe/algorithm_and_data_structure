@@ -47,9 +47,9 @@ int h2(int key) {
     return 1 + (key % (M - 1));
 }
 
-int find(char str[]) {
-    long long key, i, h;
-    for (i = 0;; i++) {
-        <#statements#>
-    }
-}
+//int find(char str[]) {
+//    long long key, i, h;
+//    for (i = 0;; i++) {
+//        print("a")
+//    }
+//}

@@ -9,10 +9,12 @@
 using namespace std;
 
 //　↓ここで関数を宣言し呼び出す。（C++ main関数は一度しか呼び出せないよ！）
-void Binary_Search();
+//void Binary_Search();
+void Test();
 
 int main() {
     // insert code here...
-    Binary_Search();
+//    Binary_Search();
+    Test();
     return 0;
 }
